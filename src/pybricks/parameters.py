@@ -108,6 +108,12 @@ Color.CYAN = Color(180, 100, 100)
 Color.BLUE = Color(240, 100, 100)
 Color.VIOLET = Color(270, 100, 100)
 Color.MAGENTA = Color(300, 100, 100)
+Color.BRICK_YELLOW = Color(52, 96, 90)
+Color.BRICK_RED = Color(357, 96, 71)
+Color.BRICK_BLUE = Color(221, 96, 67)
+Color.BRICK_GREEN = Color(140, 89, 48)
+Color.BRICK_BLACK = Color(189, 49, 17)
+Color.BRICK_WHITE = Color(0, 5, 95)
 
 
 class Port(_PybricksEnum):

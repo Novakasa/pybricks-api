@@ -72,6 +72,35 @@ Color
         This is total darkness, with no reflection or light at all.
 
         .. pybricks-color:: NONE
+    
+    .. rubric:: Brick colors
+    
+    These represent common LEGO colors. They are returned by the color sensors'
+    `Color()` functions (with the exception of `BRICK_BLACK`).
+
+    .. autoattribute:: BRICK_YELLOW
+
+        .. pybricks-color:: BRICK_YELLOW
+    
+    .. autoattribute:: BRICK_RED
+
+        .. pybricks-color:: BRICK_RED
+    
+    .. autoattribute:: BRICK_BLUE
+
+        .. pybricks-color:: BRICK_BLUE
+    
+    .. autoattribute:: BRICK_GREEN
+
+        .. pybricks-color:: BRICK_GREEN
+    
+    .. autoattribute:: BRICK_BLACK
+
+        .. pybricks-color:: BRICK_BLACK
+    
+    .. autoattribute:: BRICK_WHITE
+
+        .. pybricks-color:: BRICK_WHITE
 
 .. rubric:: Making your own colors
 
