@@ -75,8 +75,11 @@ Color
     
     .. rubric:: Brick colors
     
-    These represent common LEGO colors. They are returned by the color sensors'
-    `Color()` functions (with the exception of `BRICK_BLACK`).
+    These represent common LEGO colors. With the exception of ``BRICK_BLACK``,
+    they are returned by the color sensors' ``color()`` functions.
+    
+    They have been calibrated at a distance of 2 LEGO plates (6.4 mm).
+    Measuring from further away makes the color appear darker to the sensor.
 
     .. autoattribute:: BRICK_YELLOW
 
